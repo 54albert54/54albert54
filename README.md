@@ -7,7 +7,8 @@ Cinema Astro
 
 <img src="https://pbs.twimg.com/media/GC4zWErWgAAs0hY?format=jpg&name=medium" />
 
-<a herf="/" > Web </a>
+[Pagina web][Web]
+[Web]: https://astro-movie.netlify.app
 </div>
 
 ```javascript
