@@ -1,7 +1,14 @@
 [![baner](https://pbs.twimg.com/profile_banners/1739826447424823296/1703644124/1500x500 "baner")](https://pbs.twimg.com/profile_banners/1739826447424823296/1703644124/1500x500 "baner")
 
+<div>
+<h2 >
+Cinema Astro
+</h2>
 
- https://angelporfolio.vercel.app/ "Mi porflio"
+<img src="https://pbs.twimg.com/media/GC4zWErWgAAs0hY?format=jpg&name=medium" />
+
+<a herf="/" > Web </a>
+</div>
 
 ```javascript
 const AboutME ={
