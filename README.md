@@ -4,11 +4,11 @@
 
 ```javascript
 const AboutME ={
-	name:'Angel Albert',
+	name:'Angel Alberto',
 	lastName:'Bernechea',
 	contry:{
 		nationality:'Dominican',
-		currentlyLiving:'Wilkes-barres PA '
+		currentlyLiving:'Wilkes-barre PA '
 	},
 	languaje: ['Spanish', 'English'],
 	code:['HTML & CSS' ,'JavaScript' , 'TypeScrip','Python','Swift'],
