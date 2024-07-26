@@ -1,15 +1,6 @@
 [![baner](https://pbs.twimg.com/profile_banners/1739826447424823296/1703644124/1500x500 "baner")](https://pbs.twimg.com/profile_banners/1739826447424823296/1703644124/1500x500 "baner")
 
-<div>
-<h2 >
-Cinema Astro
-</h2>
 
-<img src="https://pbs.twimg.com/media/GC4zWErWgAAs0hY?format=jpg&name=medium" />
-
-[Pagina web][Web]
-[Web]: https://astro-movie.netlify.app
-</div>
 
 ```javascript
 const AboutME ={
@@ -17,10 +8,10 @@ const AboutME ={
 	lastName:'Bernechea',
 	contry:{
 		nationality:'Dominican',
-		currentlyLiving:'Boston MA '
+		currentlyLiving:'Wilkes-barres PA '
 	},
 	languaje: ['Spanish', 'English'],
-	code:['HTML & CSS' ,'JavaScript' , 'TypeScrip','Python','C##'],
+	code:['HTML & CSS' ,'JavaScript' , 'TypeScrip','Python','Swift'],
 	design:['Figma','PhotoShop'],
 	others:['React','NodeSJ','Express','Next.JS','git','MySql','PostgreSql']
 }
